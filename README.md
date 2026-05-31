@@ -4,19 +4,6 @@
 
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=🚀+Building+scalable+web+experiences;⚡+Full+Stack+%7C+MERN+%7C+Next.js+%7C+FastAPI;🔐+Currently+exploring+CyberSecurity;🤝+Open+to+collabs+%26+open+source;💻+I+love+coding+%E2%80%94+yes%2C+even+on+weekends)](https://git.io/typing-svg)
